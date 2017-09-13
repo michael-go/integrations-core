@@ -328,7 +328,6 @@ class Kubernetes(AgentCheck):
         try:
             cont_labels = subcontainer['spec']['labels']
         except KeyError:
-            self.log.debug("Subcontainer, doesn't have any labels")
             cont_labels = {}
 
         # Collect pod names, namespaces, rc...
