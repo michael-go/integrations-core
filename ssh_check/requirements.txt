@@ -1,5 +1,5 @@
 # integration pip requirements
-cryptography==2.1.4 \
+cryptography==3.2 \
     --hash=sha256:69285f5615507b6625f89ea1048addd1d9218585fb886eb90bdebb1d2b2d26f5 \
     --hash=sha256:6cb1224da391fa90f1be524eafb375b62baf8d3df9690b32e8cc475ccfccee5e \
     --hash=sha256:4f385ee7d39ee1ed74f1d6b1da03d0734ea82855a7b28a9e6e88c4091bc58664 \
